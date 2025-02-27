@@ -7,9 +7,13 @@ Fun Facts: When I’m not working on cybersecurity, I enjoy music, coding, gamin
 
 # Technical Skills
  Network Analysis: Wireshark, tcpdump
+ 
 Penetration Testing: Metasploit, Burp Suite,Kali,nmap
+
 Cloud Security Tools: AWS Inspector, Azure Security Center, Google Cloud Security Command Center
+
 Web Application Security Tools: Nessus
+
 
 # Programming Languages:
 Python
