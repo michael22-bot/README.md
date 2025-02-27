@@ -6,7 +6,7 @@ Passion: I have a strong interest in penetration testing and helping companies e
 Fun Facts: When I’m not working on cybersecurity, I enjoy music, coding, gaming, and exploring new technologies.
 
 # Technical Skills
-Network Analysis: Wireshark, tcpdump
+ Network Analysis: Wireshark, tcpdump
 Penetration Testing: Metasploit, Burp Suite,Kali,nmap
 Cloud Security Tools: AWS Inspector, Azure Security Center, Google Cloud Security Command Center
 Web Application Security Tools: Nessus
