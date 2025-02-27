@@ -12,6 +12,7 @@ When I’m not working on cybersecurity, I enjoy music, coding, gaming, and expl
  Network Analysis: Wireshark, tcpdump
  
 Penetration Testing: Metasploit, Burp Suite,Kali,nmap
+![cartoon-hacker-man-with-cyber-security-icons-around-colorful-design-HDPHY4](https://github.com/user-attachments/assets/ea69f729-85bf-426a-9123-c6dfb1575b07)
 
 Cloud Security Tools: AWS Inspector, Azure Security Center, Google Cloud Security Command Center
 
